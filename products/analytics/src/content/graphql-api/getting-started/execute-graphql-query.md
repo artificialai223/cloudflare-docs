@@ -3,7 +3,7 @@ order: 60
 pcx-content-type: interim
 ---
 
-# Use curl to query the Analytics API
+# Use curl to query the Analytics API's
 
 You can submit a [query built with the GraphiQL client](/graphql-api/getting-started/compose-graphql-query) as the payload in the `data` field of a POST request to the Analytics API.
 
